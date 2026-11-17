@@ -3,6 +3,8 @@
 A free picture viewer for OpenEXR, PNG, and JPEG, from the makers of Univah Film Engine.
 
 Download the installer from the Releases page. It runs on 64-bit Windows 10 and Windows 11.
+or Visit us on the Microsoft Store! We are verified Microsoft Developers! 
+https://apps.microsoft.com/store/detail/9N5B1RMF7RQM?cid=DevShareMCLPCS
 
 - Try Univah: https://smsoftwarecompany.com/univah-lite/
 - Learn Univah: https://www.youtube.com/@UnivahFilmEngine/playlists
